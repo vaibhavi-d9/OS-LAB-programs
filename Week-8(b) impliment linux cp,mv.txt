@@ -1,0 +1,18 @@
+Week-8(b):
+NAME OF THE EXPERIMENT:Linux commands cp , mv using Linux system calls
+AIM:Implement the Linux commands (a) cp (b) mv using Linux system calls.
+ALGORITHM:
+Step 1:Start
+Step 2: open Terminal
+Step 3:give the cp and mv command and check with the different type of the options 
+Step 4:observe the result of the each options
+Step 5: Stop
+Program:
+cp :copy files and directories
+Usage: cp [OPTION]... SOURCE DEST
+eg. cp sample.txt sample_copy.txt
+cp :sample_copy.txt target_dir
+mv : move (rename) files
+Usage: mv [OPTION]... SOURCE DEST
+eg. mv source.txt target_dir
+mv old.txt new.txt
